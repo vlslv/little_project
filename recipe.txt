@@ -1,5 +1,5 @@
 1. follow @tgiorgetti on twitter and steal/download his videos
-2. ffmpeg -ss 00:00 -i Registro\ de\ 3\ de\ agosto\ de\ 2020..mp4 -t 00:04 images_%03d.tiff
+2. ffmpeg -ss 00:00 -i stolen_video.mp4 -t 00:04 images_%03d.tiff
 3. run the notebook
 
 
